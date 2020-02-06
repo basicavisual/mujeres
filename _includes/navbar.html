@@ -1,0 +1,14 @@
+<nav class="d-flex justify-content-between px-5">
+  <div class="">
+    {% if page.layout == "home" %} <div></div> {% else %} <div><a href="/" class="link-activo">&lt; Regresar </a></div>  {% endif %}
+  </div>
+  <div class="subpaginas">
+    {% for item in site.data.settings.menu %}
+      {% if item.name == page.title %}
+        <a href="{{ item.url }}" class="link-activo">{{ item.name }}</a>
+      {% else %}
+        <a href="{{ item.url }}">{{ item.name }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</nav>

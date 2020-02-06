@@ -1,0 +1,37 @@
+---
+layout: default
+custom_css: home
+---
+
+<div class="home-title">
+  <h3 class="text-center">Acciones para garantizar a las mujeres y <br>
+  las niñas el derecho a una vida libre de violencia.</h3>
+  <hr class="hr-home">
+  <p class="text-center">Medidas para garantizar a las mujeres y las niñas el derecho a una vida libre de violencia</p>
+</div>
+
+{% assign rows = site.acciones.size | divided_by: 3.0 | ceil  %}
+
+{% for i in (1..rows) %}
+
+  {% assign offset = forloop.index0 | times: 3 %}
+
+
+  <div class="row">
+    {% for accion in site.acciones limit: 3 offset: offset %}
+
+
+    <div class="col-md-4 accion-card">
+      <a href="{{ accion.url }}">
+        <img src="/assets/images/acciones/{{ accion.imagen }}" alt="{{ accion.imagen-texto }}">
+      </a>
+
+
+      <p class="acciones-titulo_corto">{{ accion.titulo_corto }}</p>
+      <p class="acciones-responsables_texto morado">Responsables:</p>
+      <p class="acciones-responsables_content">{{ accion.responsable }}</p>
+    </div>
+
+  {% endfor %}
+  </div>
+{% endfor %}

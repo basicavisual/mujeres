@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+
+<h1>{{ page.titulo_largo }}</h1>
+<p><span class="morado">Responsables: </span> {{ page.responsable }} </p>
+{{ page.content }}
+<hr>
+{% if page.actividades_concluidas %}
+
+  <h3>Actividades concluidas</h3>
+  <table class="table">
+    <thead>
+      <tr class="row">
+        <th class="col-md-2">Fecha</th>
+        <th class="col-md-10">Descripción</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      {% for actividad_hash in page.actividades_concluidas %}
+        {% assign actividad = actividad_hash.actividad %}
+        <tr class="row">
+          <td class="col-md-2">{{ actividad.fecha }}</td>
+          <td class="col-md-10">{{ actividad.descripcion }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+{% endif %}
