@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca De
+title: Acerca de
 permalink: /acerca-de/
 ---
 
@@ -21,7 +21,7 @@ Secretaría de Inclusión y Bienestar Social
 Secretaría de Salud
 Secretaría del Trabajo y Fomento al Empleo
 Secretaría de Movilidad
-Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano 
+Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano
 Una persona representante por cada una de las 16 alcaldías
 La persona titular de la Comisión de Derechos Humanos de la Ciudad de México
 

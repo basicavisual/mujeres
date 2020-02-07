@@ -1,5 +1,6 @@
 ---
 layout: accion
+orden: 12
 titulo_corto: Campañas de Comunicación
 titulo_largo: Generar campañas masivas para visibilizar y sensibilizar a la sociedad respecto del problema de la violencia hacia las mujeres
 responsable: Secretaría de las Mujeres

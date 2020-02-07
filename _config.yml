@@ -37,10 +37,11 @@ plugins:
 sass:
   sass_dir: assets/css
   style: :nested
-  
+
 collections:
   acciones:
     output: true
+    sort_by: orden
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,0 +1,55 @@
+@font-face {
+  font-family: Metropolis;
+  font-weight: 700;
+  src: url("/assets/fonts/Metropolis-bold.otf"); }
+
+@font-face {
+  font-family: Metropolis;
+  font-weight: 400;
+  src: url("/assets/fonts/Metropolis.otf"); }
+
+* {
+  font-family: 'Metropolis'; }
+
+.link-activo {
+  font-weight: 700; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: #0f4c42; }
+
+p {
+  color: #6d7278;
+  font-weight: 700; }
+
+.morado {
+  color: #3b005a; }
+
+.page-actividades {
+  font-size: 1.2rem; }
+
+.header-margen {
+  margin-left: 7rem; }
+
+@media only screen and (max-width: 450px) {
+  .header-margen {
+    margin-left: 0px; } }
+
+nav a {
+  color: #0f4c42;
+  font-weight: 700; }
+
+nav a.link-activo {
+  color: #00b140; }
+
+.subpaginas a {
+  margin-right: 1.5rem;
+  text-decoration: underline; }
+
+nav {
+  margin-bottom: 3rem; }
+
+footer {
+  background-color: #2e2e32; }
+
+/*# sourceMappingURL=all.css.map */

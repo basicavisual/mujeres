@@ -2,4 +2,4 @@ menu:
 - {name: Acciones, url: '/'}
 - {name: Mapa, url: '/mapa/'}
 - {name: Documentos, url: '/documentos/'}
-- {name: Acerca De, url: '/acerca-de/'}
+- {name: Acerca de, url: '/acerca-de/'}

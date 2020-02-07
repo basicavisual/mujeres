@@ -1,5 +1,6 @@
 ---
 layout: accion
+orden: 1
 titulo_corto: Registro Público de Agresores Sexuales
 titulo_largo: Presentar la iniciativa de ley para la creación del Registro Público de Agresores Sexuales
 responsable: Secretaría de Gobierno y Congreso de la Ciudad de México
