@@ -8,9 +8,5 @@ imagen-texto: 'texto de la imagen'
 actividades_concluidas:
   - actividad:
       fecha: 02/dic/2019
-      descripcion: test
-  - actividad:
-      fecha: 03/dic/2019
-      descripcion: descripcion de test
+      descripcion: La Secretaria de Gobierno entregó a la presidenta de la Mesa Directiva del Congreso local la iniciativa de Ley del Registro Público de Agresores Sexuales. <br> La iniciativa fue turnada a la Comisiones Unidas de Administración y Procuración de Justicia y de Atención Especial a Víctimas.
 ---
-kjfglwekrjgkwej

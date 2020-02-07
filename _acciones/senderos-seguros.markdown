@@ -8,8 +8,6 @@ imagen-texto: 'texto de la imagen'
 actividades_concluidas:
   - actividad:
       fecha: 17/12/2019
-      descripcion: Hasta esa fecha se han creado 122 senderos seguros 
-  - actividad:
-      fecha: 
-      descripcion: 
+      descripcion: Hasta esa fecha se han creado 122 senderos seguros
+
 ---
