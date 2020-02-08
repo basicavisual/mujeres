@@ -8,13 +8,13 @@ imagen: rectangle.png
 imagen-texto: texto de la imagen
 actividades_concluidas:
   - actividad:
-      fecha: 02/12/2019
+      fecha: 15/12/2019
       descripcion: El Congreso de la Ciudad aprobó por unanimidad la creación del Banco de ADN para uso forense de la Ciudad de México, la adición de una Ley de Centros de Reclusión y la reforma al artículo del Sistema de Seguridad Ciudadana en materia de registro de identificación biométrica.
 actividades_proximas:
   - actividad:
-      fecha: 02/12/2019
+      fecha: 
       descripcion: Adecuación de espacio para la instalación de la infraestructura y equipamiento necesario.
   - actividad:
-      fecha: 02/12/2019
+      fecha: 
       descripcion: Capacitación a personal de servicios periciales.  
 ---
