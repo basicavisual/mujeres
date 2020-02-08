@@ -8,22 +8,22 @@ imagen: rectangle.png
 imagen-texto: 'texto de la imagen'
 actividades_concluidas:
   - actividad:
-      fecha:
+      fecha: 18/JUL/2019
       descripcion: Inició el proceso de colocación de GPS y cámaras de seguridad en 16,000 autobuses de rutas de transporte concesionado, conectadas con el sistema del C5.
   - actividad:
-      fecha:
+      fecha: 31/oct/2019
       descripcion: Se llevaron a cabo mejoras en señalización homologada, audios, una campaña de información y se fortaleció la vigilancia para el respeto de espacios exclusivos para mujeres en Metro y Metrobús.
   - actividad:
-      fecha:
+      fecha: 30/dic/2019
       descripcion: Se completaron mejoras en la iluminación en el entorno exterior de 59 estaciones de 9 líneas de Metro, así como en Centros de Transferencia Modal.
   - actividad:
-      fecha:
+      fecha: 05/sep/2019
       descripcion: Dio inicio el funcionamiento de la aplicación MI TAXI que incluye un botón de auxilio para casos de violencia sexual y otros delitos.
   - actividad:
-      fecha:
-      descripcion: Se pusieron en circulación 40 nuevos trolebuses de RTP, cada uno con cuatro cámaras de seguridad, botón de pánico y sistema GPS.
+      fecha: 20/nov/2019
+      descripcion: Se pusieron en circulación 40 nuevos trolebuses, cada uno con cuatro cámaras de seguridad, botón de pánico y sistema GPS.
   - actividad:
-      fecha:
+      fecha: 
       descripcion: Se instalaron Módulos de Atención Viaja Segura en las estaciones Balderas y Pantitlán del Metro, con el objetivo de realizar acciones coordinadas entre los organismos de transporte público e instituciones responsables de la seguridad pública y de procuración de justicia para garantizar que las mujeres de la Ciudad de México viajen más seguras y libres de violencia.
 actividades_proximas:
   - actividad:
