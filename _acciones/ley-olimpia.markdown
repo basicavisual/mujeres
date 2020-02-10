@@ -8,6 +8,10 @@ imagen: rectangle.png
 imagen-texto: 'texto de la imagen'
 actividades_concluidas:
   - actividad:
-      fecha: 02/dic/2019
-      descripcion: La Secretaria de Gobierno entregó a la presidenta de la Mesa Directiva del Congreso local la iniciativa de Ley del Registro Público de Agresores Sexuales. <br> La iniciativa fue turnada a la Comisiones Unidas de Administración y Procuración de Justicia y de Atención Especial a Víctimas.
+      fecha: 03/dic/2019
+      descripcion: El pleno del Congreso de la Ciudad de México aprobó por unanimidad las reformas al Código Penal y la Ley de Acceso de las Mujeres a una vida Libre de Violencia de la Ciudad de México, a fin de sancionar la violencia digital en contra de las mujeres.
+actividades_proximas:
+  - actividad:
+      fecha: 
+      descripcion: Aplicar el plan de formación para implementar la ruta de investigación tanto para recolección y procesamiento de evidencia digital, modus operandi en medios electrónicos por parte de los Ministerios Públicos, Peritos, Policías de Investigación y Asesores Jurídicos.      
 ---
