@@ -18,10 +18,12 @@
 
 .accion-card {
   padding: 0 2rem;
+  margin-bottom: .5rem;
 }
 
 .acciones-responsables_content {
-  font-size: .7rem;
+  font-size: .8rem;
+  font-weight: normal;
   line-height: 1rem;
   margin: 0 .5rem;
 }

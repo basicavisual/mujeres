@@ -4,8 +4,8 @@ orden: 4
 titulo_corto: Fortalecimiento de LUNAS
 titulo_largo: Fortalecer las Unidades Territoriales de Atención y Prevención de la Violencia de Género
 responsable: Secretaría de las Mujeres
-imagen: rectangle.png
-imagen-texto: 'texto de la imagen'
+imagen: luna.png
+imagen-texto: 'luna'
 actividades_concluidas:
   - actividad:
       fecha: 29/09/2019
