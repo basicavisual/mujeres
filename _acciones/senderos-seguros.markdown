@@ -9,5 +9,5 @@ imagen-texto: 'texto de la imagen'
 actividades_concluidas:
   - actividad:
       fecha: 17/12/2019
-      descripcion: Hasta esa fecha se han creado 122 senderos seguros en 15 Alcaldías de la Ciudad que incluyen: instalación o cambio de luminarias, cámaras de seguridad, altavoces, botones de auxilio conectados al C5 y diferentes acciones de servicios urbanos, como poda, plantación y limpieza de áreas verdes.
+      descripcion: Hasta esa fecha se han creado 122 senderos seguros en 15 Alcaldías de la Ciudad que incluyen&#58; instalación o cambio de luminarias, cámaras de seguridad, altavoces, botones de auxilio conectados al C5 y diferentes acciones de servicios urbanos, como poda, plantación y limpieza de áreas verdes.
 ---

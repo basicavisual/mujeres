@@ -15,16 +15,17 @@ actividades_concluidas:
       descripcion: Inició el programa “Abogadas de las Mujeres” en 79 agencias del ministerio público  con 151 abogadas encargada de asesorar y apoyar a las mujeres que llegan a presentar denuncias por violencia de género o familiar.
   - actividad:
       fecha: 31/oct/2019
-      descripcion: Iniciaron trabajos de remodelación en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Iztapalapa FDS-5, en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Venustiano Carranza FDS-3, en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Álvaro Obregón FDS-2, y en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Amberes FDS-1. 
+      descripcion: Iniciaron trabajos de remodelación en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Iztapalapa FDS-5, en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Venustiano Carranza FDS-3, en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Álvaro Obregón FDS-2, y en la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Amberes FDS-1.
   - actividad:
       fecha: 31/oct/2019
-      descripcion: Iniciaron trabajos para la ampliación de la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Bunker FDS-6 y de la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Cien Metros FDS-4.         - actividad:
+      descripcion: Iniciaron trabajos para la ampliación de la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Bunker FDS-6 y de la Fiscalía Central de Investigación para la Atención de Delitos Sexuales Cien Metros FDS-4.         
+  - actividad:
       fecha: 04/12/2019
       descripcion: Reinauguración de la AFDS-2 Álvaro Obregón.
-    - actividad:
+  - actividad:
       fecha: 09/12/2019
       descripcion: Reinauguración de la AFDS-3 Venustiano Carranza.
-    - actividad:
+  - actividad:
       fecha: 12/12/2019
       descripcion: Reinauguración de la AFDS-5 Iztapalapa.      
 actividades_proximas:

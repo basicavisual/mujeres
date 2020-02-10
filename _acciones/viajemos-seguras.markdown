@@ -8,7 +8,7 @@ imagen: rectangle.png
 imagen-texto: 'texto de la imagen'
 actividades_concluidas:
   - actividad:
-      fecha: 18/JUL/2019
+      fecha: 18/jul/2019
       descripcion: Inició el proceso de colocación de GPS y cámaras de seguridad en 16,000 autobuses de rutas de transporte concesionado, conectadas con el sistema del C5.
   - actividad:
       fecha: 31/oct/2019
@@ -23,7 +23,7 @@ actividades_concluidas:
       fecha: 20/nov/2019
       descripcion: Se pusieron en circulación 40 nuevos trolebuses, cada uno con cuatro cámaras de seguridad, botón de pánico y sistema GPS.
   - actividad:
-      fecha: 
+      fecha:
       descripcion: Se instalaron Módulos de Atención Viaja Segura en las estaciones Balderas y Pantitlán del Metro, con el objetivo de realizar acciones coordinadas entre los organismos de transporte público e instituciones responsables de la seguridad pública y de procuración de justicia para garantizar que las mujeres de la Ciudad de México viajen más seguras y libres de violencia.
 actividades_proximas:
   - actividad:
