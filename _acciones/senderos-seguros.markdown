@@ -4,8 +4,8 @@ orden: 6
 titulo_corto: Senderos seguros “Camina libre, camina segura”
 titulo_largo: Incrementar el número de senderos seguros del Programa “Camina Libre, Camina Segura”, con el objetivo de erradicar la incidencia delictiva, mejorar las condiciones de seguridad de las mujeres y fomentar el disfrute del espacio público
 responsable: Secretaría de Obras, C5 y Alcaldías
-imagen: rectangle.png
-imagen-texto: 'texto de la imagen'
+imagen: luminaria.png
+imagen-texto: 'Luminaria'
 actividades_concluidas:
   - actividad:
       fecha: 17/12/2019

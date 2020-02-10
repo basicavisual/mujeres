@@ -4,8 +4,8 @@ orden: 9
 titulo_corto: Formación integral a cuerpos policiales
 titulo_largo: Establecer una estrategia de formación integral de cuerpos policiales con perspectiva de género y de derechos humanos
 responsable: Secretaría de Seguridad Ciudadana
-imagen: rectangle.png
-imagen-texto: 'texto de la imagen'
+imagen: policia.png
+imagen-texto: 'policía'
 actividades_concluidas:
   - actividad:
       fecha: 30/11/2019

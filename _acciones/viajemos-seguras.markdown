@@ -4,8 +4,8 @@ orden: 7
 titulo_corto: Programa “Viajemos seguras y protegidas”
 titulo_largo: Fortalecer las acciones del Programa “Viajemos Seguras y Protegidas” en el transporte público y por plataformas
 responsable: Secretaría de Movilidad
-imagen: rectangle.png
-imagen-texto: 'texto de la imagen'
+imagen: bus.png
+imagen-texto: 'bus'
 actividades_concluidas:
   - actividad:
       fecha: 18/jul/2019
