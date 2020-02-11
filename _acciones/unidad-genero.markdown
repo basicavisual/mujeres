@@ -1,7 +1,7 @@
 ---
 layout: accion
 orden: 11
-titulo_corto: Unidad Especializada de Género en la Secretaría de Seguridad Ciudadana
+titulo_corto: Unidad Especializada de Género en la SSC
 titulo_largo: Creación de la Unidad Especializada de Género en la Secretaría de Seguridad Ciudadana para la atención integral y oportuna de delitos cometidos en contra de las mujeres
 responsable:  Secretaría de Seguridad Ciudadana
 imagen: gente.png
