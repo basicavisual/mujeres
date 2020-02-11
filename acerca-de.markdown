@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de
 permalink: /acerca-de/
+custom_css: about
 ---
 
 # Acerca de la alerta por violencia en contra de las Mujeres:
