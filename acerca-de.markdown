@@ -5,7 +5,7 @@ permalink: /acerca-de/
 custom_css: about
 ---
 
-# Acerca de la alerta por violencia en contra de las Mujeres:
+# Acerca de la alerta por violencia en contra de las Mujeres
 
 
 El 25 de noviembre de 2019 se publicó en la Gaceta Oficial el Decreto por el que se emite la Declaratoria de Alerta por Violencia contra las Mujeres en la Ciudad de México (DAVM), con el fin de que se implementen las acciones de emergencia que permitan garantizar la seguridad y los derechos de las mujeres, niñas y adolescentes que habitan o transitan en la Ciudad, así como visibilizar la violencia de género y transmitir un mensaje de cero tolerancia.
