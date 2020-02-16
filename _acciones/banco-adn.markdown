@@ -3,7 +3,7 @@ layout: accion
 orden: 3
 titulo_corto: Ley de Banco de ADN contra delitos sexuales
 titulo_largo: Exhortar al Congreso de la Ciudad de México para la aprobación de la iniciativa de ley por la que se crea el Banco de ADN para uso forense para la persecución de delitos sexuales
-responsable: Congreso de la Ciudad de México
+responsable: Congreso de la Ciudad de México, Fiscalía General de Justicia y Agencia Digital de Innovación Pública
 imagen: adn.png
 imagen-texto: ADN
 actividades_concluidas:
