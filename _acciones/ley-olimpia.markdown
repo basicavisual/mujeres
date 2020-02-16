@@ -3,7 +3,7 @@ layout: accion
 orden: 2
 titulo_corto: Ley Olimpia para sancionar el acoso y la violencia digital
 titulo_largo: Exhortar al Congreso de la Ciudad de México para la aprobación de la iniciativa de la llamada “Ley Olimpia” que sanciona el acoso y la violencia digital
-responsable: Congreso de la Ciudad de México
+responsable: Congreso de la Ciudad de México y Fiscalía General de Justicia
 imagen: mujer.png
 imagen-texto: 'mujer'
 actividades_concluidas:
