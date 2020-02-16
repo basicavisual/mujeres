@@ -1,8 +1,9 @@
 ---
 layout: accion
 orden: 5
-titulo_corto: Certificación en materia de atención a víctimas
+titulo_corto: Certificación en materia de atención a víctimas a personal de la FGJ
 titulo_largo: Enviar la propuesta para incorporar en la iniciativa de Ley de la Fiscalía la obligación de certificar a ministerios públicos, asesores jurídicos y peritos en la atención de mujeres víctimas de violencia
+responsable: Fiscalía General de Justicia
 imagen: cdmx.png
 imagen-texto: 'Mano sosteniento la ciudad'
 actividades_concluidas:
