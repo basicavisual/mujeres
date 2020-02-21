@@ -22,9 +22,6 @@ actividades_concluidas:
   - actividad:
       fecha: 20/nov/2019
       descripcion: Se pusieron en circulación 40 nuevos trolebuses, cada uno con cuatro cámaras de seguridad, botón de pánico y sistema GPS.
-  - actividad:
-      fecha:
-      descripcion: Se instalaron Módulos de Atención Viaja Segura en las estaciones Balderas y Pantitlán del Metro, con el objetivo de realizar acciones coordinadas entre los organismos de transporte público e instituciones responsables de la seguridad pública y de procuración de justicia para garantizar que las mujeres de la Ciudad de México viajen más seguras y libres de violencia.
 actividades_proximas:
   - actividad:
       fecha:
@@ -33,6 +30,9 @@ actividades_proximas:
       fecha:
       descripcion: Iniciar el horario de servicio de lunes a domingo de 07:00 a 20:00 horas en los 5 Módulos de Atención.
   - actividad:
-        fecha:
-        descripcion: Firmar y aplicar la propuesta de modificación del Convenio de Colaboración Interinstitucional para la Ejecución del Programa de Seguridad de las Mujeres en los Medios de Transporte Público de Pasajeros en la Ciudad de México “Viajemos Seguras” que fue remitida a las 10 instituciones de Gobierno que lo integran y al Consejo Ciudadano para sus observaciones
+      fecha:
+      descripcion: Firmar y aplicar la propuesta de modificación del Convenio de Colaboración Interinstitucional para la Ejecución del Programa de Seguridad de las Mujeres en los Medios de Transporte Público de Pasajeros en la Ciudad de México “Viajemos Seguras” que fue remitida a las 10 instituciones de Gobierno que lo integran y al Consejo Ciudadano para sus observaciones
+  - actividad:
+      fecha: 15/mar/2020
+      descripcion: Se instalaron Módulos de Atención Viaja Segura en las estaciones Hidalgo, Pino Suárez y La Raza con el objetivo de realizar acciones coordinadas entre los organismos de transporte público e instituciones responsables de la seguridad pública y de procuración de justicia para garantizar que las mujeres de la Ciudad de México viajen más seguras y libres de violencia.
 ---

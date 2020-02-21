@@ -19,9 +19,6 @@ actividades_concluidas:
   - actividad:
       fecha: 12/12/2019
       descripcion: Diseño del Modelo Único de Atención Integral para LUNAS, así como la ruta de atención por área de trabajo orientados a la homologación de la atención inicial y la especializada en psicología.
-  - actividad:
-      fecha:
-      descripcion: Capacitación de 120 personas sobre el registro de información para garantizar su captura ágil y adecuada.
 actividades_proximas:
   - actividad:
       fecha:
@@ -35,5 +32,9 @@ actividades_proximas:
   - actividad:
       fecha:
       descripcion: Elaborar rutas de atención a mujeres víctimas de violencia. <br> Visualizar en las instalaciones el tipo de servicios que se ofrecen.
+  - actividad:
+      fecha:
+      descripcion: Capacitación de 150 personas sobre el registro de información para garantizar su captura ágil y adecuada.
+
 
 ---
