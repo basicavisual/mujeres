@@ -32,5 +32,8 @@ actividades_proximas:
   - actividad:
       fecha:
       descripcion: Concluir los trabajos de remodelación de las 3 Agencias Especializadas de Delitos Sexuales en obra. <br> Inaugurar 3 nuevas Agencias Especializadas de Delitos Sexuales en los Centros de Justicia para las Mujeres.
+  - actividad:
+      fecha:
+      descripcion: Rehabilitación de la Agencia Especializada en Delitos Sexuales 4 Gustavo A. Madero.
 
 ---

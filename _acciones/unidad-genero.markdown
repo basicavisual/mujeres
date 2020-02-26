@@ -10,6 +10,12 @@ actividades_concluidas:
   - actividad:
       fecha: 24/11/2019
       descripcion: Se creó la Unidad Especializada de Género en la Secretaría de Seguridad Ciudadana que atenderá los casos de violencia de las mujeres policías y, en un futuro, extenderá sus funciones a todas las mujeres de la Ciudad de México. Está integrada por 16 mujeres policías y cuenta con 6 patrullas para el apoyo de su labor
+  - actividad:
+      fecha:
+      descripcion: Se iniciaron 239 Carpetas de Investigación Administrativas por violencia de género. Se otorgaron 153 atenciones por parte del área de investigación victimal y se otorgaron 12 medidas cautelares.
+  - actividad:
+      fecha:
+      descripcion: Se concertaron 22 proyectos de prevención, la mitad de ellos están destinados a la Prevención de la Violencia Familiar y Violencia contra las Mujeres.
 actividades_proximas:
   - actividad:
       fecha:
@@ -20,4 +26,7 @@ actividades_proximas:
   - actividad:
       fecha:
       descripcion: Ampliar instalaciones que conforman la Unidad Especializada de Género
+  - actividad:
+      fecha: 15/mar/2020
+      descripcion: Inicio de campaña de difusión de la Unidad de género al interior de la Secretaría de Seguridad Ciudadana a través de dípticos y carteles.
 ---

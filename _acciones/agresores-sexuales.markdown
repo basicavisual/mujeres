@@ -14,4 +14,13 @@ actividades_concluidas:
       fecha: 06/feb/2020
       descripcion: La Comisión de Igualdad de Género aprobó el dictamen de opinión para crear la Ley del Registro Público de Agresores Sexuales en la Ciudad de México.
 actividades_proximas:
+  - actividad:
+      fecha: 30/abr/2020
+      descripcion: Primera implementación del Registro Público de mano con la Agencia Digital de Innovación Pública.
+  - actividad:
+      fecha: 31/mayo/2020
+      descripcion: Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del registro.
+  - actividad:
+      fecha: 31/mayo/2020
+      descripcion: Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal.
 ---

@@ -35,6 +35,9 @@ actividades_proximas:
   - actividad:
       fecha:
       descripcion: Capacitación de 150 personas sobre el registro de información para garantizar su captura ágil y adecuada.
+  - actividad:
+      fecha:
+      descripcion: Rehabilitación de 6 LUNAS de las alcaldías Coyoacán, Iztacalco, GAM y Miguel Hidalgo.
 
 
 ---
