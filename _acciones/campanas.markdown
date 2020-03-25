@@ -12,6 +12,9 @@ actividades_concluidas:
       descripcion: Se implementó la campaña “Entre todos paremos la violencia” en radio, televisión y redes sociales con el hashtag &#35;DateCuenta, así como con carteles y anuncios en el transporte y espacio públicos. Se entregaron 400 mil ejemplares de la Cartilla de Derechos de las mujeres a través de visitas domiciliarias, jornadas, brigadas, talleres y eventos. Se entregaron 43 mil 766 postales informativas de la campaña de prevención de la violencia en el noviazgo "No es costumbre es violencia", así como el sitio informativo https://www.cdmx.gob.mx/portal/articulo/distintos-tipos-de-violencia la campaña comprendió lo siguiente&#58; <br> <ul><li>4,900 espacios en el metro con 5 millones de impactos diarios</li> <li>1,479 espacios en mobiliario urbano</li> <li>151 spots de televisión con 4 millones de impactos diarios </li> <li> 442 spots de radio con 2.5 millones de impactos diarios </li> <li> 111 anuncios en la prensa con 2 millones de impactos diarios. </li> <li> Difusión de campaña a través de boletas del predial. </li> 
 actividades_proximas:
   - actividad:
+      fecha: abr/2020
+      descripcion: Continuará la campaña #DateCuenta con 4 mil 180 espacios en el metro con 5 millones de impactos diarios y con 632 espacios en mobiliario urbano.
+    - actividad:
       fecha:
-      descripcion: Continuación de la campaña durante 2020. Evaluación de resultados de la campaña
+      descripcion: Evaluación de resultados de la campaña
 ---
