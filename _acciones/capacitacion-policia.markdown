@@ -8,9 +8,20 @@ imagen: policia.png
 imagen-texto: 'policía'
 actividades_concluidas:
   - actividad:
-      fecha: 30/11/2019
+      fecha: 30/nov/2019
       descripcion: Concluyeron 45 mil acciones de capacitación de dirigidas a policías de la Secretaría de Seguridad Ciudadana en temas de Derechos Humanos a través de la impartición de talleres
-      descripcion: La Procuraduría General de Justicia capacitó a dos generaciones de 1,641 policías a través del curso “Función Policial con personas”.
+  - actividad:
+      fecha: ene/2020
+      descripcion: La Fiscalía General de Justicia capacitó a dos generaciones de 1,641 policías a través del curso “Función Policial con personas”.
+  - actividad:
+      fecha: feb/2020
+      descripcion: Concluyó la primera etapa de capacitación a 2,200 policías de investigación de la Fiscalía General de Justicia con un curso teórico práctico de 40 horas de duración.      
+  - actividad:
+      fecha: 16/mar/2020
+      descripcion: La Fiscalía General de Justicia inició la segunda etapa de capacitación con una meta de 1 mil 300 elementos capacitados al mes de junio.
+  - actividad:
+      fecha: mar/2020
+      descripcion: La Secretaría de Seguridad Ciudadana concluyó capacitación a 1,257 elementos, de los cuales: 550 son elementos 12 sectores prioritarios, 300 son primera generación de transferencia de PA y PBI, 82 son formadores replicadores de PBI, y 25 son abogadas de la Unidad especializada en Género.
 actividades_proximas:
   - actividad:
       fecha:
@@ -18,10 +29,7 @@ actividades_proximas:
   - actividad:
       fecha:
       descripcion: La Secretaría de Seguridad Ciudadana incluirá perspectiva de género y derechos humanos en todos los contenidos impartidos en la formación inicial; además, incluirán cursos de nuevas masculinidades para los cadetes hombres.
-  - actividad:
-      fecha:
-      descripcion: En enero de 2020 inicia la impartición de un diplomado en Policía de Género para las y los 20 policías que integran la Unidad de Género de Asuntos Internos. <br> Desde enero se capacitará por etapas al personal docente de la Universidad de la Policía en “Docencia con perspectiva de género”.
-  - actividad:
+      - actividad:
       fecha:
       descripcion: Diseñar metodología para medir el impacto de las capacitaciones en las y los policías y poder identificar áreas de oportunidad, tanto de los cursos y sus contenidos.
   - actividad:
