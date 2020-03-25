@@ -11,7 +11,7 @@ actividades_concluidas:
       fecha: 03/dic/2019
       descripcion: El pleno del Congreso de la Ciudad de México aprobó por unanimidad las reformas al Código Penal y la Ley de Acceso de las Mujeres a una vida Libre de Violencia de la Ciudad de México, a fin de sancionar la violencia digital en contra de las mujeres.
   - actividad:
-      fecha: 22/abr/2020
+      fecha: 22/ene/2020
       descripcion: Publicación de la Ley Olimpia en la en la Gaceta Oficial de la Ciudad de México, No. 267 Bis.
 actividades_proximas:
   - actividad:
