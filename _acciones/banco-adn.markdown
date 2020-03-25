@@ -14,16 +14,16 @@ actividades_concluidas:
       fecha: 11/mar/2020
       descripcion: Empresas interesadas adquirieron las bases de la licitación para la construcción y equipamiento del Laboratorio.
 actividades_proximas:
-  - actividad: 
+  - actividad:
       fecha: 23/mar/2020
       descripcion: Se constituirá la coordinación interinstitucional de operación y supervisión del banco de perfiles genéticos.
-  - actividad: 
+  - actividad:
       fecha: 30/mar/2020
       descripcion: Se realizará la propuesta de proposiciones y apertura técnica y económica.
-  - actividad: 
+  - actividad:
       fecha: 30/mar/2020
       descripcion: Se realizará la propuesta de proposiciones y apertura técnica y económica.
-- actividad: 
+  - actividad:
       fecha: 08/abr/2020
       descripcion: Inicio de obra.
   - actividad:

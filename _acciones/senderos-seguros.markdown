@@ -31,7 +31,7 @@ actividades_proximas:
       descripcion: Sendero seguro en Eje 10 Sur, Eje 3 Sur, Ana Bolena.
   - actividad:
       fecha: dic/2020
-      descripcion: Intervención integral en avenidas: Av. Tláhuac, Av. de los Insurgentes, Calzada de Tlalpan, Eje Central, Calzada Ignacio Zaragoza.
-      
+      descripcion: Intervención integral en avenidas&#58; Av. Tláhuac, Av. de los Insurgentes, Calzada de Tlalpan, Eje Central, Calzada Ignacio Zaragoza.
+
 
 ---

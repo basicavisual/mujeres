@@ -13,9 +13,9 @@ actividades_concluidas:
   - actividad:
       fecha: 06/feb/2020
       descripcion: La Comisión de Igualdad de Género aprobó el dictamen de opinión para crear la Ley del Registro Público de Agresores Sexuales en la Ciudad de México.
-      - actividad:
+  - actividad:
       fecha: 10/mar/2020
-      descripcion: Congreso de la Ciudad aprobó la iniciativa de ley, la cual incluye modificaciones a las siguientes leyes: a) Código Penal; b) Ley de Acceso de las Mujeres a una Vida Libre de Violencia; c) Ley de los Derechos de Niñas, Niños y Adolescentes.
+      descripcion: Congreso de la Ciudad aprobó la iniciativa de ley, la cual incluye modificaciones a las siguientes leyes&#58; a) Código Penal; b) Ley de Acceso de las Mujeres a una Vida Libre de Violencia; c) Ley de los Derechos de Niñas, Niños y Adolescentes.
 actividades_proximas:
   - actividad:
       fecha: 30/abr/2020

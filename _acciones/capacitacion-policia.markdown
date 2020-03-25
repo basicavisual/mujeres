@@ -21,7 +21,7 @@ actividades_concluidas:
       descripcion: La Fiscalía General de Justicia inició la segunda etapa de capacitación con una meta de 1 mil 300 elementos capacitados al mes de junio.
   - actividad:
       fecha: mar/2020
-      descripcion: La Secretaría de Seguridad Ciudadana concluyó capacitación a 1,257 elementos, de los cuales: 550 son elementos 12 sectores prioritarios, 300 son primera generación de transferencia de PA y PBI, 82 son formadores replicadores de PBI, y 25 son abogadas de la Unidad especializada en Género.
+      descripcion: La Secretaría de Seguridad Ciudadana concluyó capacitación a 1,257 elementos, de los cuales&#58; 550 son elementos 12 sectores prioritarios, 300 son primera generación de transferencia de PA y PBI, 82 son formadores replicadores de PBI, y 25 son abogadas de la Unidad especializada en Género.
 actividades_proximas:
   - actividad:
       fecha:
@@ -29,7 +29,7 @@ actividades_proximas:
   - actividad:
       fecha:
       descripcion: La Secretaría de Seguridad Ciudadana incluirá perspectiva de género y derechos humanos en todos los contenidos impartidos en la formación inicial; además, incluirán cursos de nuevas masculinidades para los cadetes hombres.
-      - actividad:
+  - actividad:
       fecha:
       descripcion: Diseñar metodología para medir el impacto de las capacitaciones en las y los policías y poder identificar áreas de oportunidad, tanto de los cursos y sus contenidos.
   - actividad:

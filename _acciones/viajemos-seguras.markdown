@@ -25,7 +25,7 @@ actividades_concluidas:
   - actividad:
       fecha: feb/2020
       descripcion: Publicación del estudio Análisis de la movilidad, accesibilidad y seguridad de las mujeres en tres Centros de Transferencia Modal (CETRAM) de la Ciudad de México con apoyo del Banco Interamericano de Desarrollo.
-- actividad:
+  - actividad:
       fecha:
       descripcion: Dos módulos Viaja Segura en operación en las estaciones Balderas y Pantitlán. El primer módulo con horario de lunes a domingo de 08:00 a 20:00 horas y el segundo de lunes a viernes 08:00 a 20:00 horas.
 actividades_proximas:
