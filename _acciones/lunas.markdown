@@ -19,6 +19,12 @@ actividades_concluidas:
   - actividad:
       fecha: 12/12/2019
       descripcion: Diseño del Modelo Único de Atención Integral para LUNAS, así como la ruta de atención por área de trabajo orientados a la homologación de la atención inicial y la especializada en psicología.
+  - actividad:
+      fecha: 15/mar/2020
+      descripcion: Rehabilitación de la LUNA Iztacalco (2 sedes), Miguel Hidalgo (2 sedes),  Gustavo A. Madero (2 sedes).
+  - actividad:
+      fecha: 15/mar/2020
+      descripcion: 111 personas servidoras públicas capacitadas en el Modelo de Atención Integral específico de las LUNAS de las áreas de psicología (69) y Jurídica (42).
 actividades_proximas:
   - actividad:
       fecha:
