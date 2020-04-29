@@ -27,6 +27,6 @@ actividades_concluidas:
       fecha: 31/mayo/2020
       descripcion: Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del registro.
   - actividad:
-      fecha: 31/mayo/2020
-      descripcion: Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal.
+      fecha: 17/junio/2020
+      descripcion: Publicar en la Gaceta Oficial de la Ciudad de México el Sistema de Protección de Datos Personales del Registro Público de Personas Agresoras Sexuales.
 ---
