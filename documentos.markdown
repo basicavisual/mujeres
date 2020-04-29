@@ -37,6 +37,11 @@ En esta sección encontrarás las presentaciones de cada sesión.
 
 </div>
 
+<div class="col-md-4">
+<img src="/assets/images/pdf_icon.png" alt="PDF icon" class="icono-pdf"> <a class="doc-link" href="/assets/files/sesiones/Sexta sesión.pdf" target="blank">Sexta Sesión.pdf</a>
+
+</div>
+
 </div>
 
 <br>
