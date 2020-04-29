@@ -22,6 +22,9 @@ actividades_concluidas:
   - actividad:
       fecha: mar/2020
       descripcion: La Secretaría de Seguridad Ciudadana concluyó capacitación a 1,257 elementos, de los cuales&#58; 550 son elementos 12 sectores prioritarios, 300 son primera generación de transferencia de PA y PBI, 82 son formadores replicadores de PBI, y 25 son abogadas de la Unidad especializada en Género.
+  - actividad:
+      fecha: abr/2020
+      descripcion: La Secretaría de Seguridad Ciudadana concluyó capacitación en línea a 69 policías (14 mujeres y 55 hombres); en las temáticas de Género y Derechos Humanos y Prevención y Atención del Acoso Sexual en la Administración Pública. 55 policías (6 mujeres y 49 hombres) corresponden a la Policía Bancaria e Industrial y 14 personas servidoras públicas de mandos medios y superiores (8 mujeres y 6 hombres) a la Unidad Especializada de Género de la Secretaría de Seguridad Ciudadana. 
 actividades_proximas:
   - actividad:
       fecha:
