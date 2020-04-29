@@ -16,10 +16,13 @@ actividades_concluidas:
   - actividad:
       fecha: 10/mar/2020
       descripcion: Congreso de la Ciudad aprobó la iniciativa de ley, la cual incluye modificaciones a las siguientes leyes&#58; a) Código Penal; b) Ley de Acceso de las Mujeres a una Vida Libre de Violencia; c) Ley de los Derechos de Niñas, Niños y Adolescentes.
-actividades_proximas:
+  - actividad:
+      fecha: 20/mar/2020
+      descripcion: Publicación en la Gaceta Oficial de la Ciudad de México el Decreto por el que se reforma y adiciona, diversas disposiciones del Código Penal del Distrito Federal, de la Ley de Acceso de las Mujeres a Una Vida Libre de Violencia de la Ciudad de México y de la Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México.
+      actividades_proximas:
   - actividad:
       fecha: 30/abr/2020
-      descripcion: Primera implementación del Registro Público de mano con la Agencia Digital de Innovación Pública.
+      descripcion: Inician trabajos de implementación del Registro Público de mano con la Agencia Digital de Innovación Pública.
   - actividad:
       fecha: 31/mayo/2020
       descripcion: Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del registro.
